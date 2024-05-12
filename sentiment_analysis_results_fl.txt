@@ -1,0 +1,358 @@
+Sentence: 
+Can I have a swing please.
+Flair Sentiment: POSITIVE
+
+Sentence: add more opsions like tomato soup carbanara and salad.
+Flair Sentiment: POSITIVE
+
+Sentence: carbonara,tomato soup,salald.
+Flair Sentiment: POSITIVE
+
+Sentence: Tastier meals, and cooked properly food is sometimes cold or vegetables and roast potatoes hard .
+Flair Sentiment: POSITIVE
+
+Sentence: different choices .
+Flair Sentiment: NEGATIVE
+
+Sentence: Bigger meals served with more standard things.
+Flair Sentiment: NEGATIVE
+
+Sentence: Cooking potatoes so they aren't hard.
+Flair Sentiment: POSITIVE
+
+Sentence: Making sandwiches more kid sized.
+Flair Sentiment: POSITIVE
+
+Sentence: More pasta dishes tuna pasta bake etc.
+Flair Sentiment: NEGATIVE
+
+Sentence: they can have more vegetarian options.
+Flair Sentiment: NEGATIVE
+
+Sentence: they can put more on the plate.
+Flair Sentiment: POSITIVE
+
+Sentence: It can be improved more if it had a lot more healty options.
+Flair Sentiment: NEGATIVE
+
+Sentence: Not really I like all the school meals.
+Flair Sentiment: NEGATIVE
+
+Sentence: No I like them all.
+Flair Sentiment: NEGATIVE
+
+Sentence: More packed lunch options.
+Flair Sentiment: POSITIVE
+
+Sentence: no plastic cutlery.
+Flair Sentiment: NEGATIVE
+
+Sentence: no plastic cutley.
+Flair Sentiment: NEGATIVE
+
+Sentence: Don't always overcook the meat.
+Flair Sentiment: POSITIVE
+
+Sentence: More options for different fruit rather than just apples.
+Flair Sentiment: NEGATIVE
+
+Sentence: Lots of the food is really hard like the burgers.
+Flair Sentiment: NEGATIVE
+
+Sentence: Sometimes the food has a taste but often it just takes like nothing.
+Flair Sentiment: NEGATIVE
+
+Sentence: source food from local areas.
+Flair Sentiment: POSITIVE
+
+Sentence: Add a bit more different meals other than roast and spaghetti.
+Flair Sentiment: NEGATIVE
+
+Sentence: They could get their ingredients from places that sell natural food.
+Flair Sentiment: NEGATIVE
+
+Sentence: More of a longer time to eat.
+Flair Sentiment: POSITIVE
+
+Sentence: The Puddings are delicious but the actual dinners are horrible.
+Flair Sentiment: NEGATIVE
+
+Sentence: I usually get an extra snack that my mum gives me because she knows i dont get full enough.
+Flair Sentiment: POSITIVE
+
+Sentence: make the containers bigger to have more food in them, may be a tiny bit more.
+Flair Sentiment: POSITIVE
+
+Sentence: Have more vegetables, like even simple vegetables on the side, make the containers a bit bigger to contain more food.
+Flair Sentiment: NEGATIVE
+
+Sentence: not have the food mixed and tins not made from plastic so you can out food in different bits, and also plastic is not good for the environment, it s good for us but if we keep garbaging it it will take over the world, today I had to pick up two bits off the floor from the playground and put it in the bin.
+Flair Sentiment: NEGATIVE
+
+Sentence: may be only two days a week you eat meat because I sometimes I get really slow when I eat meat because it feels it s not right, I don't know why t makes me feel that.
+Flair Sentiment: NEGATIVE
+
+Sentence: we could have more veggies, some of my friends really like vegetables same as me, broccoli carrots peas and sweetcorn, cabbage, I haven't tried beetroot or kale ( when prompted what about).
+Flair Sentiment: NEGATIVE
+
+Sentence: May be have more pasta.
+Flair Sentiment: POSITIVE
+
+Sentence: may be more lasagne ( Prompted).
+Flair Sentiment: NEGATIVE
+
+Sentence: have some carrot sticks to go with the jacket potatoes, because they normally only have beans or tuna but it would be good to add some vegetables.
+Flair Sentiment: POSITIVE
+
+Sentence: Make healthy cakes, like carrot cakes for example.
+Flair Sentiment: POSITIVE
+
+Sentence: I also don't like green beans in the macaroni cheese.
+Flair Sentiment: NEGATIVE
+
+Sentence: add a bit more butter to the mash.
+Flair Sentiment: POSITIVE
+
+Sentence: may be not too much junk food like pizza I do like pizza but it's not good for me.
+Flair Sentiment: NEGATIVE
+
+Sentence: I remember in one of my old schools instead of giving us cake or something they would give us fruit salad.
+Flair Sentiment: POSITIVE
+
+Sentence: I think they can make some more meals like some more because it's normally the same, like more puddings like ice cream.
+Flair Sentiment: NEGATIVE
+
+Sentence: less vegetables and more fruit.
+Flair Sentiment: POSITIVE
+
+Sentence: I like pizza, burgers, spaghetti.
+Flair Sentiment: POSITIVE
+
+Sentence: no carrots but love yorkshire, cabbage and gravy.
+Flair Sentiment: POSITIVE
+
+Sentence: more apples, the yoghurt.
+Flair Sentiment: POSITIVE
+
+Sentence: Favourite vegetables carrots, bbq corn, cucumber.
+Flair Sentiment: POSITIVE
+
+Sentence: roast potatoes and broccoli and ice cream.
+Flair Sentiment: POSITIVE
+
+Sentence: more healthy things , vegetables sweetcorn.
+Flair Sentiment: POSITIVE
+
+Sentence: may be add new food any kind of new food and chicken nuggets, and I like fries.
+Flair Sentiment: POSITIVE
+
+Sentence: Like the spaghetti bolognaise.
+Flair Sentiment: POSITIVE
+
+Sentence: more vegetarian food because a lot of people are vegetarian actually I am vegetarian because my big sister is vegetarian and I want to be vegetarian because vegetarians eats lots and lots of vegetables broccolis tomatoes and sweetcorn and peas.
+Flair Sentiment: POSITIVE
+
+Sentence: more cheese!.
+Flair Sentiment: POSITIVE
+
+Sentence: roast chicken, more fruit when we have dessert, I like carrots I don't really like the other ones.
+Flair Sentiment: NEGATIVE
+
+Sentence: get something else like fish fingers fish and beans and apples oranges, bananas.
+Flair Sentiment: NEGATIVE
+
+Sentence: More cheese packed lunches!.
+Flair Sentiment: POSITIVE
+
+Sentence: if it was a bit quieter at lunch time, more fruit and vegetables, more chicken broccoli and chips.
+Flair Sentiment: NEGATIVE
+
+Sentence: Drink more choices.
+Flair Sentiment: NEGATIVE
+
+Sentence: Pesto.
+Flair Sentiment: NEGATIVE
+
+Sentence: Bigger meals.
+Flair Sentiment: POSITIVE
+
+Sentence: use less foil for the lunch containers.
+Flair Sentiment: POSITIVE
+
+Sentence: they should make more fruit and veg options for vegatarians and vegans.
+Flair Sentiment: NEGATIVE
+
+Sentence: More standard meals.
+Flair Sentiment: NEGATIVE
+
+Sentence: Meals for children with sensory issues.
+Flair Sentiment: POSITIVE
+
+Sentence: Use sustainable local companies use biodegradable packaging.
+Flair Sentiment: POSITIVE
+
+Sentence: less meat.
+Flair Sentiment: POSITIVE
+
+Sentence: they can use less tin foil.
+Flair Sentiment: POSITIVE
+
+Sentence: no plastic.
+Flair Sentiment: NEGATIVE
+
+Sentence: eat healthy.
+Flair Sentiment: POSITIVE
+
+Sentence: Less meat.
+Flair Sentiment: POSITIVE
+
+Sentence: it can by more healthy.
+Flair Sentiment: NEGATIVE
+
+Sentence: A little more healthier.
+Flair Sentiment: POSITIVE
+
+Sentence: eat healthy.
+Flair Sentiment: POSITIVE
+
+Sentence: Don't wrap cling film round the cakes.
+Flair Sentiment: NEGATIVE
+
+Sentence: wooden cutlery that doesn't brake every time you stab something.
+Flair Sentiment: NEGATIVE
+
+Sentence: No plastic cutlery.
+Flair Sentiment: NEGATIVE
+
+Sentence: we could wash plates and cutlery up so all germs will be removed and it will save plastic.also they should obvs stop using awful bendy plastic kutlery.
+Flair Sentiment: NEGATIVE
+
+Sentence: To give more options for desert.
+Flair Sentiment: NEGATIVE
+
+Sentence: use less plastic utensils.
+Flair Sentiment: POSITIVE
+
+Sentence: more health foods and less meat foods.
+Flair Sentiment: NEGATIVE
+
+Sentence: Going by the what I've eaten and seen the, school meals are not great.
+Flair Sentiment: NEGATIVE
+
+Sentence: Due to Covid 19 restrictions we had to: eat in our classroom ( making the salad bar not available), having to eat out of foil like,  non reusable containers.
+Flair Sentiment: NEGATIVE
+
+Sentence: I used to have 1 school meal a week but coming back to school after Christmas I have not had a single school meal as all of the food gets mashed to the bottom in no  order.
+Flair Sentiment: NEGATIVE
+
+Sentence: I have seen peoples plastic forks breaking, odd combinations of food, and the school not allowing certain foods like chocolate and crisps but serving cake and other unhealthy stuff.
+Flair Sentiment: NEGATIVE
+
+Sentence: Do not use plastic for the cutlery as it is always thrown away after you eat, I suggest that you use cardboard or paper cutlery instead.
+Flair Sentiment: NEGATIVE
+
+Sentence: If the cutlery is plastic, please make it more unbreakable, last time I accidently broke my fork so then I didn't know what to do.
+Flair Sentiment: NEGATIVE
+
+Sentence: They could offer more healthy meals.
+Flair Sentiment: NEGATIVE
+
+Sentence: They could offer more choices to people.
+Flair Sentiment: NEGATIVE
+
+Sentence: Maybe they can let the sdutents have a choice because one of my school meals they put macaroni cheese with rice.
+Flair Sentiment: NEGATIVE
+
+Sentence: They gave my friends meatbalss and nan bread.
+Flair Sentiment: NEGATIVE
+
+Sentence: Like  d -_-  b.
+I just like packed lunch more, because you get chocolate and I love chocolate.
+Flair Sentiment: POSITIVE
+
+Sentence: yes, want to know because I don't know.
+Flair Sentiment: POSITIVE
+
+Sentence: more salad, like lettuce, tomatoes, cucumber onions.
+Flair Sentiment: POSITIVE
+
+Sentence: because I want to know where the food comes from don't know why.
+Flair Sentiment: NEGATIVE
+
+Sentence: have some more options of fruit, pears, bananas, we normally just have an apple.
+Flair Sentiment: NEGATIVE
+
+Sentence: Add a bit more vegetables.
+Flair Sentiment: POSITIVE
+
+Sentence: plant some of your own, there is one thing with the pizza I don't really like it, the taste is a bit weird, it might be the topping I just find it a bit weird.
+Flair Sentiment: NEGATIVE
+
+Sentence: more vegetables because that's helping the environment because animals don't get killed.
+Flair Sentiment: POSITIVE
+
+Sentence: need more food to keep the animals alive, if you had no food then we would die that's why we have to have food.
+Flair Sentiment: NEGATIVE
+
+Sentence: a bit more meat because the food doesn't have enough in it.
+Flair Sentiment: NEGATIVE
+
+Sentence: may be have more vegetables, because they make you grow, use less chocolaty puddings.
+Flair Sentiment: NEGATIVE
+
+Sentence: may be stuff like you can harvest from the ground so you don't have to use the oven so much, because ovens use gas and it makes bad air for the environment.
+Flair Sentiment: NEGATIVE
+
+Sentence: make it healthier, add some vegetables, like cucumbers.
+Flair Sentiment: POSITIVE
+
+Sentence: I think it would be good to not kill meat, should respect the planet, and it food in the bin rather than chucking it everywhere.
+Flair Sentiment: NEGATIVE
+
+Sentence: they should put new ingredients like mashed potatoes not jacket potatoes.
+Flair Sentiment: NEGATIVE
+
+Sentence: more recyclable things, like recyclable paper bags, may be not so much meat everyday because its not very good for animals.
+Flair Sentiment: POSITIVE
+
+Sentence: more vegetarian food because they don't that that much, more fruit and vegetables, always want meat though.
+Flair Sentiment: NEGATIVE
+
+Sentence: if I know where my food comes from it might make me like it more.
+Flair Sentiment: POSITIVE
+
+Sentence: If they put no ketchup in mind, I don't really like fruit that much or vegetables, because they don't taste that good mainly because of the way they are cooked, I don't eat them at home much.
+Flair Sentiment: NEGATIVE
+
+Sentence: more wraps with ham.
+Flair Sentiment: POSITIVE
+
+Sentence: I like more sweet flavours, and strawberry in ice cream and real strawberries but we don't get real strawberries.
+Flair Sentiment: NEGATIVE
+
+Sentence: more fish fingers.
+Flair Sentiment: POSITIVE
+
+Sentence: make food for the animals, more fruit and vegetables carrots and apples lettuce.
+Flair Sentiment: POSITIVE
+
+Sentence: use wooden forks.
+Flair Sentiment: NEGATIVE
+
+Sentence: it's hard to think, may be like vegetables or fruit, sugar stuff are not good for the environment.
+Flair Sentiment: NEGATIVE
+
+Sentence: have real cutlery not plastic ones (prompted).
+Flair Sentiment: NEGATIVE
+
+Sentence: Having reusable plates and cutlery.
+Flair Sentiment: POSITIVE
+
+Sentence: Use reusable containers.
+Flair Sentiment: POSITIVE
+
+
+Analysis Summary:
+Positive Sentiment: 46.15%
+Negative Sentiment: 53.85%
+Neutral Sentiment: 0.00%

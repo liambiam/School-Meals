@@ -1,0 +1,124 @@
+Sentence: 
+Can I have a swing please. - Sentiment: Neutral
+Sentence: add more opsions like tomato soup carbanara and salad. - Sentiment: Positive
+Sentence: carbonara,tomato soup,salald. - Sentiment: Neutral
+Sentence: Tastier meals, and cooked properly food is sometimes cold or vegetables and roast potatoes hard . - Sentiment: Negative
+Sentence: different choices . - Sentiment: Neutral
+Sentence: Bigger meals served with more standard things. - Sentiment: Positive
+Sentence: Cooking potatoes so they aren't hard. - Sentiment: Negative
+Sentence: Making sandwiches more kid sized. - Sentiment: Positive
+Sentence: More pasta dishes tuna pasta bake etc. - Sentiment: Positive
+Sentence: they can have more vegetarian options. - Sentiment: Positive
+Sentence: they can put more on the plate. - Sentiment: Positive
+Sentence: It can be improved more if it had a lot more healty options. - Sentiment: Positive
+Sentence: Not really I like all the school meals. - Sentiment: Negative
+Sentence: No I like them all. - Sentiment: Neutral
+Sentence: More packed lunch options. - Sentiment: Positive
+Sentence: no plastic cutlery. - Sentiment: Neutral
+Sentence: no plastic cutley. - Sentiment: Neutral
+Sentence: Don't always overcook the meat. - Sentiment: Neutral
+Sentence: More options for different fruit rather than just apples. - Sentiment: Positive
+Sentence: Lots of the food is really hard like the burgers. - Sentiment: Negative
+Sentence: Sometimes the food has a taste but often it just takes like nothing. - Sentiment: Neutral
+Sentence: source food from local areas. - Sentiment: Neutral
+Sentence: Add a bit more different meals other than roast and spaghetti. - Sentiment: Positive
+Sentence: They could get their ingredients from places that sell natural food. - Sentiment: Positive
+Sentence: More of a longer time to eat. - Sentiment: Positive
+Sentence: The Puddings are delicious but the actual dinners are horrible. - Sentiment: Neutral
+Sentence: I usually get an extra snack that my mum gives me because she knows i dont get full enough. - Sentiment: Positive
+Sentence: make the containers bigger to have more food in them, may be a tiny bit more. - Sentiment: Positive
+Sentence: Have more vegetables, like even simple vegetables on the side, make the containers a bit bigger to contain more food. - Sentiment: Positive
+Sentence: not have the food mixed and tins not made from plastic so you can out food in different bits, and also plastic is not good for the environment, it s good for us but if we keep garbaging it it will take over the world, today I had to pick up two bits off the floor from the playground and put it in the bin. - Sentiment: Positive
+Sentence: may be only two days a week you eat meat because I sometimes I get really slow when I eat meat because it feels it s not right, I don't know why t makes me feel that. - Sentiment: Negative
+Sentence: we could have more veggies, some of my friends really like vegetables same as me, broccoli carrots peas and sweetcorn, cabbage, I haven't tried beetroot or kale ( when prompted what about). - Sentiment: Positive
+Sentence: May be have more pasta. - Sentiment: Positive
+Sentence: may be more lasagne ( Prompted). - Sentiment: Positive
+Sentence: have some carrot sticks to go with the jacket potatoes, because they normally only have beans or tuna but it would be good to add some vegetables. - Sentiment: Positive
+Sentence: Make healthy cakes, like carrot cakes for example. - Sentiment: Positive
+Sentence: I also don't like green beans in the macaroni cheese. - Sentiment: Negative
+Sentence: add a bit more butter to the mash. - Sentiment: Positive
+Sentence: may be not too much junk food like pizza I do like pizza but it's not good for me. - Sentiment: Negative
+Sentence: I remember in one of my old schools instead of giving us cake or something they would give us fruit salad. - Sentiment: Positive
+Sentence: I think they can make some more meals like some more because it's normally the same, like more puddings like ice cream. - Sentiment: Positive
+Sentence: less vegetables and more fruit. - Sentiment: Positive
+Sentence: I like pizza, burgers, spaghetti. - Sentiment: Neutral
+Sentence: no carrots but love yorkshire, cabbage and gravy. - Sentiment: Positive
+Sentence: more apples, the yoghurt. - Sentiment: Positive
+Sentence: Favourite vegetables carrots, bbq corn, cucumber. - Sentiment: Neutral
+Sentence: roast potatoes and broccoli and ice cream. - Sentiment: Neutral
+Sentence: more healthy things , vegetables sweetcorn. - Sentiment: Positive
+Sentence: may be add new food any kind of new food and chicken nuggets, and I like fries. - Sentiment: Positive
+Sentence: Like the spaghetti bolognaise. - Sentiment: Neutral
+Sentence: more vegetarian food because a lot of people are vegetarian actually I am vegetarian because my big sister is vegetarian and I want to be vegetarian because vegetarians eats lots and lots of vegetables broccolis tomatoes and sweetcorn and peas. - Sentiment: Positive
+Sentence: more cheese!. - Sentiment: Positive
+Sentence: roast chicken, more fruit when we have dessert, I like carrots I don't really like the other ones. - Sentiment: Negative
+Sentence: get something else like fish fingers fish and beans and apples oranges, bananas. - Sentiment: Neutral
+Sentence: More cheese packed lunches!. - Sentiment: Positive
+Sentence: if it was a bit quieter at lunch time, more fruit and vegetables, more chicken broccoli and chips. - Sentiment: Positive
+Sentence: Drink more choices. - Sentiment: Positive
+Sentence: Pesto. - Sentiment: Neutral
+Sentence: Bigger meals. - Sentiment: Neutral
+Sentence: use less foil for the lunch containers. - Sentiment: Negative
+Sentence: they should make more fruit and veg options for vegatarians and vegans. - Sentiment: Positive
+Sentence: More standard meals. - Sentiment: Positive
+Sentence: Meals for children with sensory issues. - Sentiment: Neutral
+Sentence: Use sustainable local companies use biodegradable packaging. - Sentiment: Neutral
+Sentence: less meat. - Sentiment: Negative
+Sentence: they can use less tin foil. - Sentiment: Negative
+Sentence: no plastic. - Sentiment: Neutral
+Sentence: eat healthy. - Sentiment: Positive
+Sentence: Less meat. - Sentiment: Negative
+Sentence: it can by more healthy. - Sentiment: Positive
+Sentence: A little more healthier. - Sentiment: Positive
+Sentence: eat healthy. - Sentiment: Positive
+Sentence: Don't wrap cling film round the cakes. - Sentiment: Negative
+Sentence: wooden cutlery that doesn't brake every time you stab something. - Sentiment: Neutral
+Sentence: No plastic cutlery. - Sentiment: Neutral
+Sentence: we could wash plates and cutlery up so all germs will be removed and it will save plastic.also they should obvs stop using awful bendy plastic kutlery. - Sentiment: Negative
+Sentence: To give more options for desert. - Sentiment: Positive
+Sentence: use less plastic utensils. - Sentiment: Negative
+Sentence: more health foods and less meat foods. - Sentiment: Positive
+Sentence: Going by the what I've eaten and seen the, school meals are not great. - Sentiment: Negative
+Sentence: Due to Covid 19 restrictions we had to: eat in our classroom ( making the salad bar not available), having to eat out of foil like,  non reusable containers. - Sentiment: Negative
+Sentence: I used to have 1 school meal a week but coming back to school after Christmas I have not had a single school meal as all of the food gets mashed to the bottom in no  order. - Sentiment: Negative
+Sentence: I have seen peoples plastic forks breaking, odd combinations of food, and the school not allowing certain foods like chocolate and crisps but serving cake and other unhealthy stuff. - Sentiment: Negative
+Sentence: Do not use plastic for the cutlery as it is always thrown away after you eat, I suggest that you use cardboard or paper cutlery instead. - Sentiment: Neutral
+Sentence: If the cutlery is plastic, please make it more unbreakable, last time I accidently broke my fork so then I didn't know what to do. - Sentiment: Positive
+Sentence: They could offer more healthy meals. - Sentiment: Positive
+Sentence: They could offer more choices to people. - Sentiment: Positive
+Sentence: Maybe they can let the sdutents have a choice because one of my school meals they put macaroni cheese with rice. - Sentiment: Neutral
+Sentence: They gave my friends meatbalss and nan bread. - Sentiment: Neutral
+Sentence: Like  d -_-  b.
+I just like packed lunch more, because you get chocolate and I love chocolate. - Sentiment: Positive
+Sentence: yes, want to know because I don't know. - Sentiment: Neutral
+Sentence: more salad, like lettuce, tomatoes, cucumber onions. - Sentiment: Positive
+Sentence: because I want to know where the food comes from don't know why. - Sentiment: Neutral
+Sentence: have some more options of fruit, pears, bananas, we normally just have an apple. - Sentiment: Positive
+Sentence: Add a bit more vegetables. - Sentiment: Positive
+Sentence: plant some of your own, there is one thing with the pizza I don't really like it, the taste is a bit weird, it might be the topping I just find it a bit weird. - Sentiment: Negative
+Sentence: more vegetables because that's helping the environment because animals don't get killed. - Sentiment: Positive
+Sentence: need more food to keep the animals alive, if you had no food then we would die that's why we have to have food. - Sentiment: Positive
+Sentence: a bit more meat because the food doesn't have enough in it. - Sentiment: Positive
+Sentence: may be have more vegetables, because they make you grow, use less chocolaty puddings. - Sentiment: Positive
+Sentence: may be stuff like you can harvest from the ground so you don't have to use the oven so much, because ovens use gas and it makes bad air for the environment. - Sentiment: Negative
+Sentence: make it healthier, add some vegetables, like cucumbers. - Sentiment: Neutral
+Sentence: I think it would be good to not kill meat, should respect the planet, and it food in the bin rather than chucking it everywhere. - Sentiment: Positive
+Sentence: they should put new ingredients like mashed potatoes not jacket potatoes. - Sentiment: Positive
+Sentence: more recyclable things, like recyclable paper bags, may be not so much meat everyday because its not very good for animals. - Sentiment: Positive
+Sentence: more vegetarian food because they don't that that much, more fruit and vegetables, always want meat though. - Sentiment: Positive
+Sentence: if I know where my food comes from it might make me like it more. - Sentiment: Positive
+Sentence: If they put no ketchup in mind, I don't really like fruit that much or vegetables, because they don't taste that good mainly because of the way they are cooked, I don't eat them at home much. - Sentiment: Positive
+Sentence: more wraps with ham. - Sentiment: Positive
+Sentence: I like more sweet flavours, and strawberry in ice cream and real strawberries but we don't get real strawberries. - Sentiment: Positive
+Sentence: more fish fingers. - Sentiment: Positive
+Sentence: make food for the animals, more fruit and vegetables carrots and apples lettuce. - Sentiment: Positive
+Sentence: use wooden forks. - Sentiment: Neutral
+Sentence: it's hard to think, may be like vegetables or fruit, sugar stuff are not good for the environment. - Sentiment: Negative
+Sentence: have real cutlery not plastic ones (prompted). - Sentiment: Positive
+Sentence: Having reusable plates and cutlery. - Sentiment: Neutral
+Sentence: Use reusable containers. - Sentiment: Neutral
+
+Analysis Summary:
+Positive Sentiment: 54.70%
+Negative Sentiment: 18.80%
+Neutral Sentiment: 26.50%

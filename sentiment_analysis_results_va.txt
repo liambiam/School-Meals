@@ -1,0 +1,358 @@
+Sentence: 
+Can I have a swing please.
+VADER Sentiment: Positive
+
+Sentence: add more opsions like tomato soup carbanara and salad.
+VADER Sentiment: Positive
+
+Sentence: carbonara,tomato soup,salald.
+VADER Sentiment: Neutral
+
+Sentence: Tastier meals, and cooked properly food is sometimes cold or vegetables and roast potatoes hard .
+VADER Sentiment: Negative
+
+Sentence: different choices .
+VADER Sentiment: Neutral
+
+Sentence: Bigger meals served with more standard things.
+VADER Sentiment: Neutral
+
+Sentence: Cooking potatoes so they aren't hard.
+VADER Sentiment: Positive
+
+Sentence: Making sandwiches more kid sized.
+VADER Sentiment: Neutral
+
+Sentence: More pasta dishes tuna pasta bake etc.
+VADER Sentiment: Neutral
+
+Sentence: they can have more vegetarian options.
+VADER Sentiment: Neutral
+
+Sentence: they can put more on the plate.
+VADER Sentiment: Neutral
+
+Sentence: It can be improved more if it had a lot more healty options.
+VADER Sentiment: Positive
+
+Sentence: Not really I like all the school meals.
+VADER Sentiment: Negative
+
+Sentence: No I like them all.
+VADER Sentiment: Positive
+
+Sentence: More packed lunch options.
+VADER Sentiment: Neutral
+
+Sentence: no plastic cutlery.
+VADER Sentiment: Negative
+
+Sentence: no plastic cutley.
+VADER Sentiment: Negative
+
+Sentence: Don't always overcook the meat.
+VADER Sentiment: Neutral
+
+Sentence: More options for different fruit rather than just apples.
+VADER Sentiment: Neutral
+
+Sentence: Lots of the food is really hard like the burgers.
+VADER Sentiment: Positive
+
+Sentence: Sometimes the food has a taste but often it just takes like nothing.
+VADER Sentiment: Positive
+
+Sentence: source food from local areas.
+VADER Sentiment: Neutral
+
+Sentence: Add a bit more different meals other than roast and spaghetti.
+VADER Sentiment: Neutral
+
+Sentence: They could get their ingredients from places that sell natural food.
+VADER Sentiment: Positive
+
+Sentence: More of a longer time to eat.
+VADER Sentiment: Neutral
+
+Sentence: The Puddings are delicious but the actual dinners are horrible.
+VADER Sentiment: Negative
+
+Sentence: I usually get an extra snack that my mum gives me because she knows i dont get full enough.
+VADER Sentiment: Neutral
+
+Sentence: make the containers bigger to have more food in them, may be a tiny bit more.
+VADER Sentiment: Neutral
+
+Sentence: Have more vegetables, like even simple vegetables on the side, make the containers a bit bigger to contain more food.
+VADER Sentiment: Positive
+
+Sentence: not have the food mixed and tins not made from plastic so you can out food in different bits, and also plastic is not good for the environment, it s good for us but if we keep garbaging it it will take over the world, today I had to pick up two bits off the floor from the playground and put it in the bin.
+VADER Sentiment: Negative
+
+Sentence: may be only two days a week you eat meat because I sometimes I get really slow when I eat meat because it feels it s not right, I don't know why t makes me feel that.
+VADER Sentiment: Neutral
+
+Sentence: we could have more veggies, some of my friends really like vegetables same as me, broccoli carrots peas and sweetcorn, cabbage, I haven't tried beetroot or kale ( when prompted what about).
+VADER Sentiment: Positive
+
+Sentence: May be have more pasta.
+VADER Sentiment: Neutral
+
+Sentence: may be more lasagne ( Prompted).
+VADER Sentiment: Neutral
+
+Sentence: have some carrot sticks to go with the jacket potatoes, because they normally only have beans or tuna but it would be good to add some vegetables.
+VADER Sentiment: Positive
+
+Sentence: Make healthy cakes, like carrot cakes for example.
+VADER Sentiment: Positive
+
+Sentence: I also don't like green beans in the macaroni cheese.
+VADER Sentiment: Negative
+
+Sentence: add a bit more butter to the mash.
+VADER Sentiment: Neutral
+
+Sentence: may be not too much junk food like pizza I do like pizza but it's not good for me.
+VADER Sentiment: Negative
+
+Sentence: I remember in one of my old schools instead of giving us cake or something they would give us fruit salad.
+VADER Sentiment: Positive
+
+Sentence: I think they can make some more meals like some more because it's normally the same, like more puddings like ice cream.
+VADER Sentiment: Positive
+
+Sentence: less vegetables and more fruit.
+VADER Sentiment: Neutral
+
+Sentence: I like pizza, burgers, spaghetti.
+VADER Sentiment: Positive
+
+Sentence: no carrots but love yorkshire, cabbage and gravy.
+VADER Sentiment: Positive
+
+Sentence: more apples, the yoghurt.
+VADER Sentiment: Neutral
+
+Sentence: Favourite vegetables carrots, bbq corn, cucumber.
+VADER Sentiment: Neutral
+
+Sentence: roast potatoes and broccoli and ice cream.
+VADER Sentiment: Neutral
+
+Sentence: more healthy things , vegetables sweetcorn.
+VADER Sentiment: Positive
+
+Sentence: may be add new food any kind of new food and chicken nuggets, and I like fries.
+VADER Sentiment: Positive
+
+Sentence: Like the spaghetti bolognaise.
+VADER Sentiment: Positive
+
+Sentence: more vegetarian food because a lot of people are vegetarian actually I am vegetarian because my big sister is vegetarian and I want to be vegetarian because vegetarians eats lots and lots of vegetables broccolis tomatoes and sweetcorn and peas.
+VADER Sentiment: Positive
+
+Sentence: more cheese!.
+VADER Sentiment: Neutral
+
+Sentence: roast chicken, more fruit when we have dessert, I like carrots I don't really like the other ones.
+VADER Sentiment: Positive
+
+Sentence: get something else like fish fingers fish and beans and apples oranges, bananas.
+VADER Sentiment: Positive
+
+Sentence: More cheese packed lunches!.
+VADER Sentiment: Neutral
+
+Sentence: if it was a bit quieter at lunch time, more fruit and vegetables, more chicken broccoli and chips.
+VADER Sentiment: Neutral
+
+Sentence: Drink more choices.
+VADER Sentiment: Neutral
+
+Sentence: Pesto.
+VADER Sentiment: Neutral
+
+Sentence: Bigger meals.
+VADER Sentiment: Neutral
+
+Sentence: use less foil for the lunch containers.
+VADER Sentiment: Neutral
+
+Sentence: they should make more fruit and veg options for vegatarians and vegans.
+VADER Sentiment: Neutral
+
+Sentence: More standard meals.
+VADER Sentiment: Neutral
+
+Sentence: Meals for children with sensory issues.
+VADER Sentiment: Neutral
+
+Sentence: Use sustainable local companies use biodegradable packaging.
+VADER Sentiment: Neutral
+
+Sentence: less meat.
+VADER Sentiment: Neutral
+
+Sentence: they can use less tin foil.
+VADER Sentiment: Neutral
+
+Sentence: no plastic.
+VADER Sentiment: Negative
+
+Sentence: eat healthy.
+VADER Sentiment: Positive
+
+Sentence: Less meat.
+VADER Sentiment: Neutral
+
+Sentence: it can by more healthy.
+VADER Sentiment: Positive
+
+Sentence: A little more healthier.
+VADER Sentiment: Neutral
+
+Sentence: eat healthy.
+VADER Sentiment: Positive
+
+Sentence: Don't wrap cling film round the cakes.
+VADER Sentiment: Neutral
+
+Sentence: wooden cutlery that doesn't brake every time you stab something.
+VADER Sentiment: Negative
+
+Sentence: No plastic cutlery.
+VADER Sentiment: Negative
+
+Sentence: we could wash plates and cutlery up so all germs will be removed and it will save plastic.also they should obvs stop using awful bendy plastic kutlery.
+VADER Sentiment: Negative
+
+Sentence: To give more options for desert.
+VADER Sentiment: Neutral
+
+Sentence: use less plastic utensils.
+VADER Sentiment: Neutral
+
+Sentence: more health foods and less meat foods.
+VADER Sentiment: Neutral
+
+Sentence: Going by the what I've eaten and seen the, school meals are not great.
+VADER Sentiment: Negative
+
+Sentence: Due to Covid 19 restrictions we had to: eat in our classroom ( making the salad bar not available), having to eat out of foil like,  non reusable containers.
+VADER Sentiment: Positive
+
+Sentence: I used to have 1 school meal a week but coming back to school after Christmas I have not had a single school meal as all of the food gets mashed to the bottom in no  order.
+VADER Sentiment: Negative
+
+Sentence: I have seen peoples plastic forks breaking, odd combinations of food, and the school not allowing certain foods like chocolate and crisps but serving cake and other unhealthy stuff.
+VADER Sentiment: Negative
+
+Sentence: Do not use plastic for the cutlery as it is always thrown away after you eat, I suggest that you use cardboard or paper cutlery instead.
+VADER Sentiment: Neutral
+
+Sentence: If the cutlery is plastic, please make it more unbreakable, last time I accidently broke my fork so then I didn't know what to do.
+VADER Sentiment: Negative
+
+Sentence: They could offer more healthy meals.
+VADER Sentiment: Positive
+
+Sentence: They could offer more choices to people.
+VADER Sentiment: Neutral
+
+Sentence: Maybe they can let the sdutents have a choice because one of my school meals they put macaroni cheese with rice.
+VADER Sentiment: Neutral
+
+Sentence: They gave my friends meatbalss and nan bread.
+VADER Sentiment: Positive
+
+Sentence: Like  d -_-  b.
+I just like packed lunch more, because you get chocolate and I love chocolate.
+VADER Sentiment: Positive
+
+Sentence: yes, want to know because I don't know.
+VADER Sentiment: Positive
+
+Sentence: more salad, like lettuce, tomatoes, cucumber onions.
+VADER Sentiment: Positive
+
+Sentence: because I want to know where the food comes from don't know why.
+VADER Sentiment: Positive
+
+Sentence: have some more options of fruit, pears, bananas, we normally just have an apple.
+VADER Sentiment: Neutral
+
+Sentence: Add a bit more vegetables.
+VADER Sentiment: Neutral
+
+Sentence: plant some of your own, there is one thing with the pizza I don't really like it, the taste is a bit weird, it might be the topping I just find it a bit weird.
+VADER Sentiment: Negative
+
+Sentence: more vegetables because that's helping the environment because animals don't get killed.
+VADER Sentiment: Positive
+
+Sentence: need more food to keep the animals alive, if you had no food then we would die that's why we have to have food.
+VADER Sentiment: Negative
+
+Sentence: a bit more meat because the food doesn't have enough in it.
+VADER Sentiment: Neutral
+
+Sentence: may be have more vegetables, because they make you grow, use less chocolaty puddings.
+VADER Sentiment: Neutral
+
+Sentence: may be stuff like you can harvest from the ground so you don't have to use the oven so much, because ovens use gas and it makes bad air for the environment.
+VADER Sentiment: Negative
+
+Sentence: make it healthier, add some vegetables, like cucumbers.
+VADER Sentiment: Positive
+
+Sentence: I think it would be good to not kill meat, should respect the planet, and it food in the bin rather than chucking it everywhere.
+VADER Sentiment: Positive
+
+Sentence: they should put new ingredients like mashed potatoes not jacket potatoes.
+VADER Sentiment: Positive
+
+Sentence: more recyclable things, like recyclable paper bags, may be not so much meat everyday because its not very good for animals.
+VADER Sentiment: Neutral
+
+Sentence: more vegetarian food because they don't that that much, more fruit and vegetables, always want meat though.
+VADER Sentiment: Positive
+
+Sentence: if I know where my food comes from it might make me like it more.
+VADER Sentiment: Positive
+
+Sentence: If they put no ketchup in mind, I don't really like fruit that much or vegetables, because they don't taste that good mainly because of the way they are cooked, I don't eat them at home much.
+VADER Sentiment: Negative
+
+Sentence: more wraps with ham.
+VADER Sentiment: Neutral
+
+Sentence: I like more sweet flavours, and strawberry in ice cream and real strawberries but we don't get real strawberries.
+VADER Sentiment: Positive
+
+Sentence: more fish fingers.
+VADER Sentiment: Neutral
+
+Sentence: make food for the animals, more fruit and vegetables carrots and apples lettuce.
+VADER Sentiment: Neutral
+
+Sentence: use wooden forks.
+VADER Sentiment: Neutral
+
+Sentence: it's hard to think, may be like vegetables or fruit, sugar stuff are not good for the environment.
+VADER Sentiment: Negative
+
+Sentence: have real cutlery not plastic ones (prompted).
+VADER Sentiment: Neutral
+
+Sentence: Having reusable plates and cutlery.
+VADER Sentiment: Neutral
+
+Sentence: Use reusable containers.
+VADER Sentiment: Neutral
+
+
+Analysis Summary:
+Positive Sentiment: 33.33%
+Negative Sentiment: 17.95%
+Neutral Sentiment: 48.72%

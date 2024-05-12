@@ -1,0 +1,20 @@
+Topic Modeling Results:
+
+Topic 1:
+0.027*"menu" + 0.025*"choice" + 0.018*"meal" + 0.017*"new" + 0.015*"back" + 0.015*"like" + 0.015*"old" + 0.014*"fish" + 0.013*"option" + 0.013*"daughter"
+
+Topic 2:
+0.043*"food" + 0.028*"meal" + 0.024*"vegetable" + 0.019*"better" + 0.015*"back" + 0.014*"le" + 0.014*"sausage" + 0.014*"new" + 0.011*"vegan" + 0.011*"offer"
+
+Topic 3:
+0.042*"like" + 0.026*"child" + 0.025*"food" + 0.021*"meal" + 0.021*"used" + 0.021*"school" + 0.016*"le" + 0.013*"cutlery" + 0.013*"packaging" + 0.013*"new"
+
+Topic 4:
+0.020*"often" + 0.020*"taste" + 0.020*"big" + 0.020*"different" + 0.014*"portion" + 0.013*"choice" + 0.011*"sausage" + 0.011*"new" + 0.011*"like" + 0.011*"meat"
+
+Topic 5:
+0.033*"nice" + 0.033*"soggy" + 0.030*"cheese" + 0.025*"fruit" + 0.021*"food" + 0.017*"always" + 0.017*"option" + 0.017*"go" + 0.017*"separate" + 0.017*"cooked"
+
+Topic 6:
+0.021*"option" + 0.020*"macaroni" + 0.020*"cheese" + 0.020*"meal" + 0.014*"serving" + 0.014*"like" + 0.014*"chicken" + 0.014*"always" + 0.014*"pasta" + 0.014*"bread"
+
